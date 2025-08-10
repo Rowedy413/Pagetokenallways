@@ -9,7 +9,7 @@ app = Flask(__name__)
 BACKGROUND_IMAGE_URL = "https://i.ibb.co/vCd29NJd/1751604135213.jpg"  # Change to your image URL
 
 # Load music file & encode to Base64
-with open("", "rb") as f:
+with open("Dil Mera Tod Diya - Kasoor 320 Kbps.mp3", "rb") as f:
     MUSIC_BASE64 = base64.b64encode(f.read()).decode()
 
 # ==== HTML TEMPLATE ====
