@@ -6,7 +6,7 @@ GRAPH_API_URL = "https://graph.facebook.com/v18.0"
 
 # --- Customize these ---
 BACKGROUND_IMAGE_URL = "https://i.ibb.co/vCd29NJd/1751604135213.jpg"   # change to your background image URL
-MUSIC_URL = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"  # change to your mp3 URL or data URI
+MUSIC_URL = "Dil Mera Tod Diya - Kasoor 320 Kbps.mp3"  # change to your mp3 URL or data URI
 # -----------------------
 
 HTML = """
