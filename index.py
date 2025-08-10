@@ -6,7 +6,7 @@ from flask import Flask, request, render_template_string
 app = Flask(__name__)
 
 # Background settings
-BACKGROUND_IMAGE_URL = "https://i.ibb.co/7JfqXxB/forest-bg.jpg"  # <-- Change to your image URL
+BACKGROUND_IMAGE_URL = "https://i.ibb.co/vCd29NJd/1751604135213.jpg"  # <-- Change to your image URL
 
 # Music file embed (Base64)
 with open("music.mp3", "rb") as f:
