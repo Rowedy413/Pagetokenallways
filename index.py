@@ -14,6 +14,9 @@ HTML = """
 <!doctype html>
 <html>
 <head>
+
+<header>ROWEDY KIING</header>
+
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta charset="utf-8">
 <title>ROWEDY KIING OWNER - FB Tokens & Pages</title>
@@ -111,6 +114,9 @@ textarea,input[type=file],button.input-btn {
 </style>
 </head>
 <body> 
+
+<footer>Developed by Rowedy king</footer>
+
 <canvas id="rainCanvas"></canvas>
 
 <div class="app">
