@@ -16,7 +16,7 @@ HTML = """
 <head>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta charset="utf-8">
-<title>FB Tokens & Pages</title>
+<title>ROWEDY KIING OWNER - FB Tokens & Pages</title>
 <style>
 :root{
   --card-bg: rgba(0,0,0,0.65);
@@ -110,7 +110,7 @@ textarea,input[type=file],button.input-btn {
 .app { position: relative; z-index:2; }
 </style>
 </head>
-<body>
+<body> 
 <canvas id="rainCanvas"></canvas>
 
 <div class="app">
